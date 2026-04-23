@@ -23,8 +23,8 @@ Rate My Outfit is a mobile app where users can upload pictures of their outfits 
 
 ### Upload Screen
 
-* Take or upload a photo
-* Submit outfit
+* https://scan.page/p/tiwL9y 
+
 
 ### My Outfits Screen
 
